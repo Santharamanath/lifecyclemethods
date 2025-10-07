@@ -124,8 +124,6 @@ public class MainActivity extends AppCompatActivity {
 
 ![Screenshot (66)](https://github.com/KayyuruTharani/lifecyclemethods/assets/142209319/0914167e-ec9a-4831-a64b-58da70413c2e)
 
-![Screenshot (87)](https://github.com/KayyuruTharani/lifecyclemethods/assets/142209319/4f6aabbf-5352-48c1-aa83-400252741ca6)
-
 ![Screenshot (85)](https://github.com/KayyuruTharani/lifecyclemethods/assets/142209319/f482e7b7-1132-471e-8a78-aa6aa8415d01)
 
 
